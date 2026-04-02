@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=00ff41&style=for-the-badge" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Aryan Bhalsing&label=VISITORS&color=00ff41&style=for-the-badge" alt="visitors" />
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00c3ff" alt="followers" />
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL%20STARS&style=for-the-badge&color=7f00ff" alt="stars" />
 </p>
