@@ -127,17 +127,9 @@ Web app to track DSA practice across topics and difficulty, with charts, streak 
 
 ---
 
-### 🧠 DSA & Problem Solving
-
-- Regular DSA practice with focus on patterns, not just counts  
-- Enjoy debugging, refactoring, and writing readable, maintainable code  
-- LeetCode: [leetcode.com/iamaryanbhalsing](https://leetcode.com/iamaryanbhalsing)
-
----
-
 ### 🎮 When I’m Not Coding
 
-- Gaming, photography, and exploring new places  
+- Gaming, Politics, Music, and exploring new places  
 - These keep me creative and help me design better user experiences  
 - Always experimenting with new tools, stacks, and side projects  
 
