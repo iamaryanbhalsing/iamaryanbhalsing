@@ -1,4 +1,4 @@
-<!-- Clean Hacker x Gamer GitHub Profile README -->
+<!-- Stable Hacker x Gamer GitHub Profile README -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:00110a,50:00ff41,75:00c3ff,100:050505&height=250&section=header&text=YOUR_USERNAME&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=Hacker%20Style%20%7C%20Gamer%20Energy%20%7C%20Builder%20Mindset&descAlignY=58&descSize=18" alt="header" />
@@ -81,27 +81,60 @@ mission  = create cool projects and keep leveling up
 
 ***
 
-## `activity.grid()`
+## `arsenal.badges()`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="profile summary" />
+  <img src="https://img.shields.io/badge/Python%20Automation-0d1117?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Linux%20Workflow-0d1117?style=for-the-badge&logo=linux&logoColor=00c3ff" />
+  <img src="https://img.shields.io/badge/Shell%20Scripting-0d1117?style=for-the-badge&logo=gnubash&logoColor=7f00ff" />
+  <img src="https://img.shields.io/badge/Web%20Development-0d1117?style=for-the-badge&logo=html5&logoColor=ff6b6b" />
+  <img src="https://img.shields.io/badge/Coding%20Grind-0d1117?style=for-the-badge&logo=codeforces&logoColor=ffd166" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" height="160" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" height="160" alt="most commit language" />
-</p>
+***
+
+## `project.deck()`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Security Build
+A sharp project focused on protection, detection, or access control systems.
+
+</td>
+<td width="50%">
+
+### 🌐 Web Portal
+A clean interface project with responsive design and useful workflow features.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ Linux Utility
+A terminal-first script or automation tool to make repetitive tasks easier.
+
+</td>
+<td width="50%">
+
+### 📊 Python Project
+A practical build using data handling, logic, or visualization.
+
+</td>
+</tr>
+</table>
 
 ***
 
 ## `snake.animation()`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="github contribution snake" />
 </p>
+
+<p align="center"><sub>Snake animation will appear after the GitHub Action runs successfully.</sub></p>
 
 ***
 
