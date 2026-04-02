@@ -1,71 +1,87 @@
-<!--
-  Profile README powered by lowlighter/metrics
-  https://github.com/lowlighter/metrics
--->
+<!-- Advanced GitHub Profile README using lowlighter/metrics -->
+
+<h1 align="center">Hi 👋, I'm YOUR_USERNAME</h1>
+<h3 align="center">Engineering Student -  Developer -  Linux Enthusiast -  Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+YOUR_USERNAME;Engineering+student+%7C+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" /></a>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ffb000" alt="stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
----
+***
 
-## ✨ GitHub Metrics
+## About Me
 
-> Auto‑generated infographics about my GitHub activity using  
-> <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.
+- 🎓 Engineering student passionate about programming, Linux, and problem-solving.
+- 💻 I enjoy building projects in Python, C, Shell, and web technologies.
+- ⚡ Interested in open source, automation, digital electronics, and clean UI.
+- 🚀 Currently improving my development skills and building practical projects.
 
-<!-- Core metrics (classic template) -->
+***
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,html,css,js,git,github,vscode" />
+</p>
+
+***
+
+## GitHub Metrics
+
 <p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=Asia%2FKolkata" alt="GitHub Metrics classic" />
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0" alt="main metrics" />
 </p>
 
----
-
-## 📊 Extra Stats
-
-<!-- Languages, activity, and notable contributions in one image -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME
-?template=classic
-&base=header,activity,repositories
-&config.timezone=Asia%2FKolkata
-&plugin_languages=1
-&plugin_languages_limit=8
-&plugin_languages_sections=most-used
-&plugin_languages_colors=github
-&plugin_languages_threshold=2
-&plugin_activity=1
-&plugin_activity_limit=5
-&plugin_activity_days=14
-&plugin_activity_filter=all
-&plugin_notable=1
-&plugin_notable_repositories=1
-&plugin_lines=1
-&plugin_lines_history_limit=1
-&plugin_lines_repositories_limit=4
-&plugin_lines_sections=base" 
-       alt="GitHub Metrics plugins" />
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=Asia%2FKolkata&base=activity,community,repositories,metadata&plugin_languages=1&plugin_languages_limit=8&plugin_languages_sections=most-used&plugin_languages_colors=github&plugin_languages_indepth=1" alt="language metrics" />
 </p>
 
----
+<p align="center">
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=Asia%2FKolkata&base=header&plugin_isocalendar=1&plugin_isocalendar_duration=full-year" alt="isocalendar metrics" />
+</p>
 
-## 🧰 Tech Stack
+<p align="center">
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=Asia%2FKolkata&base=header&plugin_topics=1&plugin_topics_limit=12&plugin_topics_sort=stars" alt="topics metrics" />
+</p>
 
-- Languages: C, Python, Shell, HTML/CSS  
-- Interests: Web dev, Linux, digital electronics, data visualization
+***
 
----
+## GitHub Stats
 
-## 🚀 What I'm up to
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🌱 Learning new tools and frameworks  
-- 🛠️ Building small projects and experiments  
-- 📚 Exploring open‑source and contributing when I can  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-<!--
-How this works:
+***
 
-- Images are rendered by https://metrics.lecoq.io (shared instance).
-- To customize plugins/sections, use the web UI at https://metrics.lecoq.io,
-  then paste the generated URL(s) back into this README.
--->
+## Featured Projects
+
+- 🔐 Project 1 — Short one-line description here.
+- 🌐 Project 2 — Short one-line description here.
+- 🧠 Project 3 — Short one-line description here.
+
+***
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" /></a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" /></a>
+</p>
+
+***
+
+## Setup Notes
+
+1. Replace `YOUR_USERNAME` with your GitHub username.
+2. Replace LinkedIn and email placeholders.
+3. Paste this file into your profile repository named exactly `YOUR_USERNAME`.
+4. For auto-generated metrics inside your own repo, use `lowlighter/metrics` with GitHub Actions and embed the generated SVG files in this README.
