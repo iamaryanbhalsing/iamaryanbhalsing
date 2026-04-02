@@ -84,7 +84,7 @@ Role-based web portal for students and faculty featuring authentication, admin c
 - Tech: React, Node.js, Express, MongoDB, JWT, Bcrypt  
 - Focus: Secure REST APIs, protected routes, clean UI/UX  
 
-[🔗 Live Demo](https://iamaryanbhalsing.netlify.app/#) · [💻 GitHub](https://iamaryanbhalsing.netlify.app/#)
+[🔗 Live Demo](https://announcements-mitaoe-ac-in.netlify.app/) · [💻 GitHub](https://announcements-mitaoe-ac-in.netlify.app/)
 
 ---
 
