@@ -1,129 +1,138 @@
-<!-- Advanced Animated GitHub Profile README -->
+<!-- Hacker x Gamer GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=900&lines=Hi+there%2C+I'm+YOUR_USERNAME+%F0%9F%91%8B;Engineering+Student+%7C+Python+Developer+%7C+Linux+Lover;Building+Projects+in+C%2C+Python%2C+Shell+%26+Web;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<h1 align="center">⚡ Welcome to my GitHub Universe ⚡</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0891b2" alt="followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="stars" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:0b0f0c,40:00ff41,60:00c3ff,80:7f00ff,100:050505&height=260&section=header&text=YOUR_USERNAME&fontSize=52&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=Code%20|%20Linux%20|%20Security%20|%20Gaming&descAlignY=58&descSize=20" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=110&lines=%24+booting+developer+profile...;%24+loading+hacker-mode...;%24+injecting+gamer-style+UI...;%24+status%3A+ONLINE" alt="typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-HACKER%20MODE-00ff41?style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/OS-LINUX-111111?style=for-the-badge&logo=linux&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/FOCUS-CODE%20%2B%20SECURITY-0d1117?style=for-the-badge&logo=protonmail&logoColor=00c3ff" />
+  <img src="https://img.shields.io/badge/STATUS-GRINDING-1a1a2e?style=for-the-badge&logo=steam&logoColor=7f5af0" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=00ff41&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00c3ff" alt="followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7f00ff" alt="stars" />
 </p>
 
 ***
 
-## 🌌 About Me
+## `whoami`
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+```bash
+> name: YOUR_NAME
+> role: engineering student / developer
+> mode: hacker x gamer
+> stack: python, c, shell, linux, html, css, js
+> mission: build cool things, automate workflows, level up daily
+```
 
-- 🎓 Engineering student who loves solving real-world problems with code.
-- 💻 Working with **Python, C, Shell scripting, HTML/CSS, and Linux**.
-- 🔐 Interested in security, automation, electronics, and full-stack projects.
-- 🚀 I enjoy building things that are practical, fast, and visually clean.
-- 🌱 Currently learning more about advanced development workflows and open source.
+<img align="right" alt="cyber gif" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+- `>_` Building projects with a clean, sharp, terminal-inspired vibe.
+- `>_` Into Linux, scripting, development, and cyber-style interfaces.
+- `>_` Inspired by hacker aesthetics, gaming energy, and smooth UI motion.
+- `>_` Always pushing for better code, better design, and better systems.
 
 <br clear="right"/>
 
 ***
 
-## 🛠️ Tech Stack
+## `loadout.exe`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,html,css,js,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,html,css,js,git,github,vscode,mysql&theme=dark" alt="skill icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=00c3ff" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Shell-111111?style=for-the-badge&logo=gnubash&logoColor=7f00ff" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff4d4d" />
 </p>
 
 ***
 
-## 📈 Animated GitHub Activity
+## `stats.render()`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00ff41&icon_color=00c3ff&text_color=c9d1d9&ring_color=7f00ff" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=c9d1d9" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-***
-
-## 🧠 GitHub Metrics Dashboard
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=Asia%2FKolkata&base=header,activity,community,repositories,metadata&plugin_languages=1&plugin_languages_limit=8&plugin_languages_sections=most-used&plugin_languages_colors=github&plugin_languages_indepth=1&plugin_achievements=1&plugin_achievements_threshold=C&plugin_achievements_display=detailed&plugin_habits=1&plugin_habits_days=14&plugin_habits_facts=1&plugin_habits_charts=1" alt="metrics" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=Asia%2FKolkata&base=header&plugin_isocalendar=1&plugin_isocalendar_duration=full-year&plugin_topics=1&plugin_topics_limit=12&plugin_topics_sort=stars" alt="extra metrics" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=00000000&ring=00ff41&fire=00c3ff&currStreakLabel=7f00ff" alt="streak stats" />
 </p>
 
 ***
 
-## 🐍 Contribution Snake
+## `metrics.inject()`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="snake animation" />
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=terminal&config.timezone=Asia%2FKolkata&base=header,activity,community,repositories,metadata&plugin_languages=1&plugin_languages_limit=8&plugin_languages_sections=most-used&plugin_languages_colors=github&plugin_languages_indepth=1&plugin_habits=1&plugin_habits_days=14&plugin_habits_facts=1&plugin_habits_charts=1&plugin_achievements=1&plugin_achievements_threshold=C&plugin_achievements_display=detailed" alt="terminal metrics" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=terminal&config.timezone=Asia%2FKolkata&base=header&plugin_isocalendar=1&plugin_isocalendar_duration=full-year&plugin_topics=1&plugin_topics_limit=18&plugin_topics_sort=stars&plugin_notable=1&plugin_notable_repositories=1" alt="extra terminal metrics" />
 </p>
 
 ***
 
-## 🏆 Featured Projects
+## `snake.animation()`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  </picture>
+</p>
+
+***
+
+## `mission_log`
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🔐 Security Project</h3>
-      <p align="center">A practical project focused on protection, detection, or automation.</p>
+    <td>
+      <img src="https://img.shields.io/badge/ACTIVE-PROJECTS-00ff41?style=for-the-badge&logo=vercel&logoColor=black" /><br><br>
+      Building practical coding projects with a cyberpunk UI touch.
     </td>
-    <td width="50%">
-      <h3 align="center">🌐 Web Portal</h3>
-      <p align="center">A responsive project with clean UI and useful functionality.</p>
+    <td>
+      <img src="https://img.shields.io/badge/CURRENT-LEARNING-00c3ff?style=for-the-badge&logo=codecrafters&logoColor=black" /><br><br>
+      Sharpening Python, Linux, scripting, and dev workflow skills.
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">⚙️ Linux / Shell Tool</h3>
-      <p align="center">A small automation utility that saves time and improves workflow.</p>
+    <td>
+      <img src="https://img.shields.io/badge/STYLE-HACKER%20X%20GAMER-7f00ff?style=for-the-badge&logo=ghost&logoColor=white" /><br><br>
+      Dark theme, terminal mood, smooth animated profile elements.
     </td>
-    <td width="50%">
-      <h3 align="center">📊 Data / Python Project</h3>
-      <p align="center">A project involving data handling, visualization, or analysis.</p>
+    <td>
+      <img src="https://img.shields.io/badge/TARGET-NEXT%20LEVEL-ff0055?style=for-the-badge&logo=target&logoColor=white" /><br><br>
+      Create a unique GitHub profile that feels alive and intense.
     </td>
   </tr>
 </table>
 
 ***
 
-## 🎯 Current Focus
-
-- Building polished academic and personal projects.
-- Improving DSA, Python, Linux, and development workflow skills.
-- Making my GitHub profile more professional and unique.
-
-***
-
-## 🤝 Connect With Me
+## `connect.sys`
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00c3ff" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=ff4d4d" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=7f00ff" /></a>
 </p>
 
-***
-
-## ⚙️ Setup
-
-1. Replace `YOUR_USERNAME`, `YOUR_LINKEDIN_USERNAME`, and `YOUR_EMAIL@gmail.com`.
-2. Create a GitHub profile repository with the same name as your username.
-3. Put this `README.md` into that repository.
-4. Add the workflow files below to enable the snake animation and auto-updating visuals.
-5. If you want, later I can also generate a matching `metrics.yml` workflow for fully self-hosted metrics SVGs.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:0b0f0c,40:00ff41,60:00c3ff,80:7f00ff,100:050505&height=140&section=footer&animation=twinkling" alt="footer" />
+</p>
