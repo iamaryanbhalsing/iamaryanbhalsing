@@ -108,7 +108,19 @@ Web app to track DSA practice across topics and difficulty, with charts, streak 
 | DSA Progress Tracker | Productivity Tool | JS, Firebase, Charts.js | Visualization, DSA discipline, habit tracking |
 
 ---
+### 🐍 Watch My Contributions Get Eaten
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/><br/>
+
+---
 ### 📈 GitHub Analytics (Animated)
 
 <p align="center">
