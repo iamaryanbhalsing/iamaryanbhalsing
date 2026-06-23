@@ -36,7 +36,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 - 🎓 B.Tech Computer/IT Engineering @ MITAOE, Pune  
 - 🛡️ Passionate about Fixing Exposed Systems,Bugs And Privacy !
 - ☁️ Interested in AI, Cybersecurity, and Cloud Computing  
-- 💻 Consistent DSA practice (patterns > random grind)  
+- 💻 Student Focused Tool Builder
 
 ---
 
