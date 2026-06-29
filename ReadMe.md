@@ -179,23 +179,3 @@ Web app to track DSA practice across topics and difficulty, with charts, streak 
 </p>
 
 ---
-
-<!DOCTYPE html>
-<html>
-	<head>
-		<script src="node_modules/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
-	</head>
-	<body>
-		<canvas id="pacman-canvas" width="1166" height="174"></canvas>
-		<script>
-			const renderer = new PacmanRenderer({
-				canvas: document.getElementById('pacman-canvas'),
-				platform: 'github',
-				username: 'your-username',
-				gameTheme: 'react-dark',
-				enableSounds: true
-			});
-			renderer.start();
-		</script>
-	</body>
-</html>
