@@ -64,41 +64,6 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### ✨ Featured Projects
-
-#### 🔒 Laser-Based Security System
-Low-cost laser security setup using LDRs, amplifiers, and logic gates to detect intrusions and trigger alarms in real time, without a microcontroller.
-
-- Domain: Digital Electronics, Embedded  
-- Tech: Hardware Prototyping, C  
-- Why: Affordable lab/room protection with minimal hardware  
-
-[🔗 Live Demo](https://iamaryanbhalsing.netlify.app/#) · [💻 GitHub](https://iamaryanbhalsing.netlify.app/#)
-
----
-
-#### 🏫 MITAOE College Portal
-Role-based web portal for students and faculty featuring authentication, admin controls, and secure CRUD operations for notices, assignments, and feedback.
-
-- Domain: Full-Stack Web  
-- Tech: React, Node.js, Express, MongoDB, JWT, Bcrypt  
-- Focus: Secure REST APIs, protected routes, clean UI/UX  
-
-[🔗 Live Demo](https://announcements-mitaoe-ac-in.netlify.app/) · [💻 GitHub](https://announcements-mitaoe-ac-in.netlify.app/)
-
----
-
-#### 📊 DSA Progress Tracker
-Web app to track DSA practice across topics and difficulty, with charts, streak tracking, and links to LeetCode and CodeStudio.
-
-- Domain: Productivity Tool  
-- Tech: JavaScript, Firebase, Charts.js  
-- Why: Maintain consistency and quickly spot weak topics  
-
-[🔗 Live Demo](https://iamaryanbhalsing.netlify.app/#) · [💻 GitHub](https://iamaryanbhalsing.netlify.app/#)
-
----
-
 ### 📌 Project Overview
 
 | Project | Domain | Tech | Highlights |
