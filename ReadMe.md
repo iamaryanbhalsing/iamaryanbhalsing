@@ -64,15 +64,6 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### 📌 Project Overview
-
-| Project | Domain | Tech | Highlights |
-|--------|--------|------|-----------|
-| Laser Security System | Embedded / Digital Electronics | Hardware, C | Circuit design, debugging, safety constraints |
-| MITAOE College Portal | Full-Stack Web | React, Node.js, MongoDB, JWT | System design, security, UX |
-| DSA Progress Tracker | Productivity Tool | JS, Firebase, Charts.js | Visualization, DSA discipline, habit tracking |
-
----
 ### 🐍 Watch My Contributions Get Eaten
 
 <br/>
