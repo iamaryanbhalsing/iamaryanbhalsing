@@ -76,11 +76,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 <br/><br/>
 
 ---
-### 📈 GitHub Analytics (Animated)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamaryanbhalsing&theme=radical&hide_border=true" height="160" />
-</p>
+### 📈 GitHub Analytics
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
