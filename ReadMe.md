@@ -124,7 +124,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohs7R2GceFRJfCKqs/giphy.gif">
+  <img src="https://media.giphy.com/media/3ohs7R2GceFRJfCKqs/giphy.gif" width="800" alt="Your Name GIF">
 </div>
 
 <div align="center">
