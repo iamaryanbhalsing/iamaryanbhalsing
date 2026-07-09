@@ -1,9 +1,5 @@
 <!-- HEADER ANIMATION -->
 <!-- MULTI-FONT TYPING HEADER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="200" alt="Your Name GIF">
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aryan+Bhalsing" alt="Typing SVG 1" />
 </p>
@@ -23,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="50" alt="Your Name GIF"> About Me
 
 **Full-Stack Developer & AI Enthusiast**  
 I build clean, scalable web applications and experiment with intelligent systems that solve real-world problems. Currently mastering data structures, system design, and production-ready deployments.
