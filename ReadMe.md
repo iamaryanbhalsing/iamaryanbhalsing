@@ -44,22 +44,18 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ### 🛠️ Tech Stack
 
-#### 🚀 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,bash" />
 </p>
 
-#### 🧩 Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tensorflow" />
 </p>
 
-#### 🧱 Databases & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase" />
 </p>
 
-#### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux" />
 </p>
