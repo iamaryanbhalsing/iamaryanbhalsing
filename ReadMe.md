@@ -1,7 +1,7 @@
 <!-- HEADER ANIMATION -->
 <!-- MULTI-FONT TYPING HEADER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="800" alt="Your Name GIF">
+  <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="200" alt="Your Name GIF">
 </div>
 
 <p align="center">
