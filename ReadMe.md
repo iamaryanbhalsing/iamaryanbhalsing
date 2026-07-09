@@ -116,6 +116,6 @@ I build clean, scalable web applications and experiment with intelligent systems
 </div>
 
 <div align="center">
-Thank you for visiting my profile! ✨  
-Let's build something impactful together.
+Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Vɪꜱɪᴛɪɴɢ Mʏ Pʀᴏꜰɪʟᴇ! ✨  
+Lᴇᴛ'ꜱ Bᴜɪʟᴅ Sᴏᴍᴇᴛʜɪɴɢ Iᴍᴘᴀᴄᴛꜰᴜʟ Tᴏɢᴇᴛʜᴇʀ.
 </div>
