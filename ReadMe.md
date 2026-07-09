@@ -13,10 +13,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=Actively+Seeking+internships+and+Projects" alt="Typing SVG 4" />
 </p>
 
-<!-- WAVE GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/hi.gif" alt="hi gif" width="80" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40">
+</div>
 
 ---
 
@@ -33,10 +32,13 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ### ⚡ Quick Snapshot
 
+<img align="right" src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 - 🎓 B.Tech Computer/IT Engineering @ MITAOE, Pune  
 - 🛡️ Passionate about Fixing Exposed Systems,Bugs And Privacy !
 - ☁️ Interested in AI, Cybersecurity, and Cloud Computing  
 - 💻 Student Focused Tool Builder
+
 
 ---
 
@@ -136,3 +138,5 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 **Thank you for visiting my profile!** ✨  
 Let's build something impactful together.
+
+
