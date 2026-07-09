@@ -71,19 +71,19 @@ I build clean, scalable web applications and experiment with intelligent systems
 ---
 
 ### <img src="https://media.giphy.com/media/QZgjfCcLmR8BqvrFTr/giphy.gif" width="50" > Wʜᴇɴ ɪ’ᴍ Nᴏᴛ Cᴏᴅɪɴɢ
-```
+
 - Gaming, Politics, Music, and exploring new places  
 - These keep me creative and help me design better user experiences  
 - Always experimenting with new tools, stacks, and side projects  
-```
+
 ---
 
 ### <img src="https://media.giphy.com/media/4HNWsJYzWEDrGpPVMW/giphy.gif" width="50" > Oᴘᴇɴ Tᴏ Oᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ
-```
+
 - Backend / Full-Stack Internships  
 - Freelance web projects  
 - AI/ML and productivity-focused collaborations  
-```
+
 ---
 
 ### <img src="https://media.giphy.com/media/GFeFpm1jZZD0m4wlQ3/giphy.gif" width="50"> Cᴏɴᴛᴀᴄᴛ & Sᴏᴄɪᴀʟꜱ
