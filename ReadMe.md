@@ -115,7 +115,7 @@ I build clean, scalable web applications and experiment with intelligent systems
   <img src="https://media.giphy.com/media/l2QDM9Jnim1YVILXa/giphy.gif" width="500" alt="Anime GIF">
 </div>
 
-<div align="center">
+<div align="center"> <b>
 Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Vɪꜱɪᴛɪɴɢ Mʏ Pʀᴏꜰɪʟᴇ! ✨  
 Lᴇᴛ'ꜱ Bᴜɪʟᴅ Sᴏᴍᴇᴛʜɪɴɢ Iᴍᴘᴀᴄᴛꜰᴜʟ Tᴏɢᴇᴛʜᴇʀ.
-</div>
+</b> </div>
