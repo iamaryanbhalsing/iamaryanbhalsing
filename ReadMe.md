@@ -66,19 +66,6 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### 🐍 Watch My Contributions Get Eaten
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ftgamer2/ftgamer2/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/><br/>
-
----
 ### 📈 GitHub Analytics
 
 <!-- ACTIVITY GRAPH -->
@@ -136,7 +123,11 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-**Thank you for visiting my profile!** ✨  
+<div align="center">
+  <img src="https://i.imgur.com/tzYKRfd.gif" style="max-width: 100%;">
+</div>
+
+<div align="center">
+Thank you for visiting my profile! ✨  
 Let's build something impactful together.
-
-
+</div>
