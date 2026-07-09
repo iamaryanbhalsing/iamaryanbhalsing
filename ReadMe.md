@@ -86,7 +86,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### <img src="https://media.giphy.com/media/bDmjI02nbbwrRd7s9n/giphy.gif" width="50"> Cᴏɴᴛᴀᴄᴛ & Sᴏᴄɪᴀʟꜱ
+### <img src="https://media.giphy.com/media/GFeFpm1jZZD0m4wlQ3/giphy.gif" width="50"> Cᴏɴᴛᴀᴄᴛ & Sᴏᴄɪᴀʟꜱ
 
 <p align="center">
   <a href="mailto:aryanbhalsing7090@gmail.com">
