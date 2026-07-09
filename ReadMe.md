@@ -41,8 +41,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 
 ---
-
-### <img src="https://media.giphy.com/media/QZgjfCcLmR8BqvrFTr/giphy.gif" width="50" > Tech Stack
+### <img src="https://media.giphy.com/media/Ae0WuPj6JV356Z1zYv/giphy.gif" width="50" > Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,bash" />
@@ -62,20 +61,16 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### 📈 GitHub Analytics
+### <img src="https://media.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif" width="50" > GitHub Analytics
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamaryanbhalsing&theme=github-compact&hide_border=true" alt="Aryan's GitHub activity graph" />
 </p>
 
-
-<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iam._aryanbhalsing&theme=cyber-streakglow&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
 ---
 
-### 🎮 When I’m Not Coding
+### <img src="https://media.giphy.com/media/QZgjfCcLmR8BqvrFTr/giphy.gif" width="50" > When I’m Not Coding
 
 - Gaming, Politics, Music, and exploring new places  
 - These keep me creative and help me design better user experiences  
@@ -83,7 +78,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### 🤝 Open to Opportunities
+### <img src="https://media.giphy.com/media/4HNWsJYzWEDrGpPVMW/giphy.gif" width="50" > Open to Opportunities
 
 - Backend / Full-Stack Internships  
 - Freelance web projects  
@@ -91,7 +86,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### 📫 Contact & Socials
+### <img src="https://media.giphy.com/media/qnC0HHjoN5kSJyq2Zc/giphy.gif" width="50"> Contact & Socials
 
 <p align="center">
   <a href="mailto:aryanbhalsing7090@gmail.com">
