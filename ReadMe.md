@@ -85,7 +85,8 @@ I build clean, scalable web applications and experiment with intelligent systems
 </p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iam._aryanbhalsing&theme=cyber-streakglow&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iam._aryanbhalsing&theme=cyber-streakglow&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
