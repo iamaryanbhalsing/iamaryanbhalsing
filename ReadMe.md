@@ -19,7 +19,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="50" alt="Your Name GIF"> About Me
+### <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="50" > About Me
 
 **Full-Stack Developer & AI Enthusiast**  
 I build clean, scalable web applications and experiment with intelligent systems that solve real-world problems. Currently mastering data structures, system design, and production-ready deployments.
@@ -30,7 +30,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### ⚡ Quick Snapshot
+### <img src="https://media.giphy.com/media/3ohjV6G9UwkB190zbq/giphy.gif" width="50" > Quick Snapshot
 
 <img align="right" src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
