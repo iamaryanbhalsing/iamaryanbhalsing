@@ -42,7 +42,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://media.giphy.com/media/QZgjfCcLmR8BqvrFTr/giphy.gif" width="50" > Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,bash" />
