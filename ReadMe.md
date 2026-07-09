@@ -1,5 +1,9 @@
 <!-- HEADER ANIMATION -->
 <!-- MULTI-FONT TYPING HEADER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="500" alt="Your Name GIF">
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aryan+Bhalsing" alt="Typing SVG 1" />
 </p>
