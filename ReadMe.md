@@ -22,6 +22,7 @@
 ### <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="50" > Aʙᴏᴜᴛ Mᴇ
 
 **Hɪɪ! I'ᴍ Aʀʏᴀɴ Bʜᴀʟꜱɪɴɢ**
+
 **Full-Stack Developer & AI Enthusiast**  
 I build clean, scalable web applications and experiment with intelligent systems that solve real-world problems. Currently mastering data structures, system design, and production-ready deployments.
 
