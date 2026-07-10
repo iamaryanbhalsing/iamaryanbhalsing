@@ -19,7 +19,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="50" > Aʙᴏᴜᴛ Mᴇ
+### <img src="https://media.giphy.com/media/xUNd9XRo219Nu1cNLG/giphy.gif" width="50" > Aʙᴏᴜᴛ Mᴇ :
 
 **Hɪɪ! I'ᴍ Aʀʏᴀɴ Bʜᴀʟꜱɪɴɢ** :ab:
 
@@ -32,7 +32,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### <img src="https://media.giphy.com/media/3ohjV6G9UwkB190zbq/giphy.gif" width="50" > Qᴜɪᴄᴋ Sɴᴀᴘꜱʜᴏᴛ
+### <img src="https://media.giphy.com/media/3ohjV6G9UwkB190zbq/giphy.gif" width="50" > Qᴜɪᴄᴋ Sɴᴀᴘꜱʜᴏᴛ :
 
 <img align="right" src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -43,7 +43,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 
 ---
-### <img src="https://media.giphy.com/media/Ae0WuPj6JV356Z1zYv/giphy.gif" width="50" > Tᴇᴄʜ Sᴛᴀᴄᴋ
+### <img src="https://media.giphy.com/media/Ae0WuPj6JV356Z1zYv/giphy.gif" width="50" > Tᴇᴄʜ Sᴛᴀᴄᴋ :
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,bash" />
@@ -63,7 +63,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### <img src="https://media.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif" width="50" > Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄꜱ
+### <img src="https://media.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif" width="50" > Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄꜱ :
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
@@ -72,7 +72,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### <img src="https://media.giphy.com/media/QZgjfCcLmR8BqvrFTr/giphy.gif" width="50" > Wʜᴇɴ ɪ’ᴍ Nᴏᴛ Cᴏᴅɪɴɢ
+### <img src="https://media.giphy.com/media/QZgjfCcLmR8BqvrFTr/giphy.gif" width="50" > Wʜᴇɴ ɪ’ᴍ Nᴏᴛ Cᴏᴅɪɴɢ :
 
 - Gaming, Politics, Music, and exploring new places  
 - These keep me creative and help me design better user experiences  
@@ -80,7 +80,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### <img src="https://media.giphy.com/media/4HNWsJYzWEDrGpPVMW/giphy.gif" width="50" > Oᴘᴇɴ Tᴏ Oᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ
+### <img src="https://media.giphy.com/media/4HNWsJYzWEDrGpPVMW/giphy.gif" width="50" > Oᴘᴇɴ Tᴏ Oᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ :
 
 - Backend / Full-Stack Internships  
 - Freelance web projects  
@@ -88,7 +88,7 @@ I build clean, scalable web applications and experiment with intelligent systems
 
 ---
 
-### <img src="https://media.giphy.com/media/GFeFpm1jZZD0m4wlQ3/giphy.gif" width="50"> Cᴏɴᴛᴀᴄᴛ & Sᴏᴄɪᴀʟꜱ
+### <img src="https://media.giphy.com/media/GFeFpm1jZZD0m4wlQ3/giphy.gif" width="50"> Cᴏɴᴛᴀᴄᴛ & Sᴏᴄɪᴀʟꜱ :
 
 <p align="center">
   <a href="mailto:aryanbhalsing7090@gmail.com">
